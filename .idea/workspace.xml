@@ -38,7 +38,7 @@
       <file leaf-file-name="micropost.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="55" selection-end="55" vertical-scroll-proportion="0.020804439" vertical-offset="0" max-vertical-offset="721">
+            <state line="3" column="3" selection-start="106" selection-end="106" vertical-scroll-proportion="0.062413316" vertical-offset="0" max-vertical-offset="721">
               <folding />
             </state>
           </provider>
@@ -363,7 +363,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="55" selection-end="55" vertical-scroll-proportion="0.020804439" vertical-offset="0" max-vertical-offset="721">
+        <state line="3" column="3" selection-start="106" selection-end="106" vertical-scroll-proportion="0.062413316" vertical-offset="0" max-vertical-offset="721">
           <folding />
         </state>
       </provider>
