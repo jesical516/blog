@@ -47,3 +47,4 @@ end
 gem 'rspec-rails', '2.11.0'
 gem 'factory_girl_rails','1.4.0'
 gem 'capybara'
+gem 'bcrypt-ruby', '3.1.2'
