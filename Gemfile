@@ -45,7 +45,7 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'rspec-rails','2.13.1'
-gem 'factory_girl_rails','1.4.0'
+gem 'factory_girl_rails','4.2.1'
 gem 'capybara'
 gem 'bcrypt-ruby', '3.1.2'
 gem 'execjs'
